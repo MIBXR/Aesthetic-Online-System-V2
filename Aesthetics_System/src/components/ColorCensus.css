@@ -1,0 +1,14 @@
+.score {
+    position: relative;
+    z-index: -1;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 15px;
+    margin: 0;
+    color: #666;
+    /* border-bottom: 1px solid #999; */
+    font-size: 22px;
+    user-select: none;
+    text-align: center;
+}
+
